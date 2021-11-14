@@ -10,11 +10,11 @@ body::-webkit-scrollbar {
 }
 
 body::-webkit-scrollbar-track {
-  background: ##3e3e54;
+  background: #252626;
 }
 
 body::-webkit-scrollbar-thumb {
-  background: #5D8233;
+  background: #3e3e54;
 }
 
 .OOOO {
