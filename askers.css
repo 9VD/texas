@@ -1,0 +1,55 @@
+body {
+  background-color: #3a3a3a;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+body::-webkit-scrollbar {
+  width: .25rem;
+}
+
+body::-webkit-scrollbar-track {
+  background: ##3e3e54;
+}
+
+body::-webkit-scrollbar-thumb {
+  background: #5D8233;
+}
+
+.OOOO {
+  display: inline-block;
+  width: 25vw;
+  height: 40vh;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url(https://cdn.betterttv.net/emote/5e5300e6751afe7d553e4351/3x);
+  margin: auto;
+}
+
+.NO {
+  display: inline-block;
+  width: 25vw;
+  height: 40vh;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url(https://i.ibb.co/k2PmQ7k/no.png);
+  margin: auto;
+}
+
+.mrmBald {
+  height: 120rem
+}
+
+
+
+.goblin {
+  display: inline-block;
+  width: 20vw;
+  height: 40vh;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url(https://i.ibb.co/yN6tgdG/image0.jpg);
+  margin: auto;
+}
+
